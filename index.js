@@ -1,1 +1,1 @@
-// this is indexed.js page 
+// this is a index.js page
